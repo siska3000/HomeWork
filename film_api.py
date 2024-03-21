@@ -1,5 +1,4 @@
 import requests
-import swapi
 
 
 from Film import Film
